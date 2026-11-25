@@ -1,0 +1,7 @@
+node_modules/
+.output/
+output/
+*.log
+.DS_Store
+# local test output
+/tmp/entry-test.txt
